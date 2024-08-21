@@ -13,7 +13,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 
 export const metadata: Metadata = {
   title: "NexBank",
-  description: "NexBank isa mordern banking Plaftform",
+  description: "NexBank is a mordern banking Plaftform for Everyone",
   icons: {
     icon: "/icons/logo.svg",
   },
